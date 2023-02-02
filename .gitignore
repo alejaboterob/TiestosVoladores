@@ -2,6 +2,7 @@
 /content
 /static/images
 .vscode
+/TiestosVoladores/themes/hugo-profile
 
 ### Hugo ###
 # Generated files by hugo
