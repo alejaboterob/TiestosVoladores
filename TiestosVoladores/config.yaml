@@ -115,21 +115,21 @@ languages:
         textAlign: left # default: left
 
       # color preference
-      # color:
-      #   textColor: 
-      #   secondaryTextColor:
-      #   backgroundColor:
-      #   secondaryBackgroundColor:
-      #   primaryColor:
-      #   secondaryColor:
+      color:
+        textColor: "#0A0A0A"
+        secondaryTextColor: "#C1378F"
+        # backgroundColor: 
+        secondaryBackgroundColor: "#C1F7DC"
+        primaryColor: "#C1378F"
+        # secondaryColor: "#C1F7DC"
 
-      #   darkmode:
-      #     textColor:
-      #     secondaryTextColor:
-      #     backgroundColor: 
-      #     secondaryBackgroundColor:
-      #     primaryColor:
-      #     secondaryColor:
+        darkmode:
+           textColor: "#F4F4F4"
+           secondaryTextColor: "#E574BC"
+          #  backgroundColor: "#08080E"
+           secondaryBackgroundColor: "#1C1F33"
+           primaryColor: "#E574BC"
+          #  secondaryColor: "#1C1F33"
 
       # If you want to customize the menu, you can change it here
       navbar:
