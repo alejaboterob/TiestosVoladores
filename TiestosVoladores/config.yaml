@@ -141,7 +141,7 @@ languages:
           disableAbout: true
           disableExperience: true
           disableEducation: false
-          disableProjects: true
+          disableProjects: false
           disableAchievements: true
           disableContact: false
 
