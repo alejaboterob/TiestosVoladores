@@ -11,7 +11,7 @@ outputs:
   page:
     - "HTML"
     - "RSS"
-    
+
 Paginate: 3
 enableRobotsTXT: true
 disqusShortname: "tiestosvoladores-netlify-app"
@@ -80,7 +80,7 @@ languages:
         #   url: /fr
         #   parent: Languages
         #   weight: 3
-        
+
 
 
 
@@ -118,7 +118,7 @@ languages:
       color:
         textColor: "#0A0A0A"
         secondaryTextColor: "#C1378F"
-        # backgroundColor: 
+        # backgroundColor:
         secondaryBackgroundColor: "#C1F7DC"
         primaryColor: "#C1378F"
         # secondaryColor: "#C1F7DC"
@@ -140,7 +140,7 @@ languages:
         menus:
           disableAbout: true
           disableExperience: true
-          disableEducation: true
+          disableEducation: false
           disableProjects: true
           disableAchievements: true
           disableContact: false
@@ -179,7 +179,7 @@ languages:
         title: "About Me"
         image: "/images/me.png"
         content: |-
-          I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+          I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
           I am currently working on a project that will be used to help people find the best way to get around the city.
         skills:
           enable: true
@@ -195,7 +195,7 @@ languages:
       # Experience
       experience:
         enable: false
-        # title: "Custom Name"
+        title: "Experiencia"
         items:
           - job: "Senior Software Developer"
             company: "Facebook"
@@ -221,6 +221,7 @@ languages:
               I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
               - Lead backend developer for a product.
               - Created a frontend design for a product.
+
           - job: "Junior Software Developer"
             company: "Apple"
             companyUrl: "https://example.com"
@@ -234,6 +235,7 @@ languages:
               I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
               - Lead backend developer for a product.
               - Created a frontend design for a product.
+
           - job: "UI/UX Designer"
             company: "Netflix"
             companyUrl: "https://example.com"
@@ -253,44 +255,60 @@ languages:
 
       # Education
       education:
-        enable: false
-        # title: "Custom Name"
+        enable: true
+        title: "Educación"
         index: false
         items:
-          - title: "Master of Business Administration"
+          - title: "Estudiante de Maestría en Física Aplicada"
             school:
-              name: "University of California, Berkeley"
-              url: "https://example.org"
-            date: "2013 - 2015"
-            GPA: "3.8 out of 5.0"
+              name: "Universidad EAFIT"
+              url: "https://www.eafit.edu.co/"
+            date: "2023 - 2024"
+            # GPA: "3.8 out of 5.0"
             content: |-
-              Extracurricular Activities
-                - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-          - title: "Bachelor of Science in Computer Science"
+              - Análisis y diseño de estructuras desplegables basadas en origami.
+
+          - title: "Estudiante de Ingeniería Aeroespacial"
             school:
-              name: "Massachusetts Institute of Technology"
-              url: "https://example.org"
-            date: "2009 - 2013"
-            GPA: "3.9 out of 5.0"
+              name: "Universidad de Antioquia"
+              url: "https://www.udea.edu.co/"
+            date: "2017 - 2023"
+            # GPA: "3.9 out of 5.0"
             content: |-
-              I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-              - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-              - Face mask detection using a single convolutional neural network.
-              Extracurricular Activities
-                - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+              - Miembro de los Semilleros de Investigación Voyager y Delta-V en cohetería, propulsión y tecnologías espaciales.
             featuredLink:
-              enable: true
+              enable: false
               name: "My academic record"
               url: "https://example.com"
-          - title: "High School"
+
+          - title: "Ingeniera Mecánica"
             school:
-              name: "Thomas Jefferson High School for Science and Technology."
-              url: "https://example.org"
-            GPA: "4.2 out of 5.0"
+              name: "Universidad EAFIT"
+              url: "https://www.eafit.edu.co/"
+            date: "2015 - 2020"
+            # GPA: "3.9 out of 5.0"
+            content: |-
+              - Ingeniera mecánica con énfasis en mecánica computacional
+              - Proyecto CanSat Kratos EAFIT-Postobón – Ganadores del primer lugar en mejor diseño y mejor foto por voto popular en el Global Space Balloon Challenge 2018.
+              Trabajé en el diseño de un sistema desplegable de paneles solares para un PicoSAT.
             featuredLink:
-              enable: true
+              enable: false
+              name: "My academic record"
+              url: "https://example.com"
+
+          - title: "Bachiller técnica en Desarrollo de Software"
+            school:
+              name: "Institución Educativa Fundación Celia Duque"
+              # url: "https://example.org"
+            # GPA: "4.2 out of 5.0"
+            content: |-
+              - Técnico en Desarrollo de Software
+              - Mejor proyecto de grado de la “Red de Media Técnica en Informática de Antioquia”: REDES (Registro de Desaparecidos). Diseño de una aplicación web para la búsqueda y registro de personas desaparecidas.
+              - Botón de oro 2014. Mejor bachiller de la promoción.
+              - Mejor puntaje Saber 11 del municipio de Abejorral.
+
+            featuredLink:
+              enable: false
               url: "https://example.com"
 
       # Achievements
@@ -314,59 +332,48 @@ languages:
 
       # projects
       projects:
-        enable: false
-        # title: "Custom Name"
+        enable: true
+        title: "Proyectos"
         items:
-          - title: Hugo Profile
-            content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-            image: /images/projects/profile.png
+          - title: Análisis mecánico de estructuras basadas en origami
+            content: En este proyecto se quieren desarrollar métodos para diseñar y analizar  estructuras con pliegues de origami. Para esto, es necesario combinar técnicas de mecánica computacional, con métodos de pliegue tradicionales del arte de origami.
+            image: /images/projects/origami.jpg
             featured:
-              name: Demo
-              link: https://hugo-profile.netlify.app
+              # name: Demo
+              # link: https://hugo-profile.netlify.app
             badges:
-              - "Hugo"
-              - "Bootstrap"
-              - "Javascript"
+              - "Grupo de Investigación en Mecánica Aplicada"
+              - "Origami"
+              - "Mecánica computacional"
             links:
-              - icon: fa fa-envelope
-                url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/hugo-profile
-              - icon: fab fa-twitter
-                url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+              # - icon: fa fa-envelope
+              #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+              # - icon: fab fa-github
+              #   url: https://github.com/gurusabarish/hugo-profile
+              # - icon: fab fa-twitter
+              #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-          - title: Image Converter
-            content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-            image: /images/projects/converter.jpg
+          - title: Análisis y diseño de estructuras desplegables basadas en origami
+            content: Desarrollo de métodos para diseñar y analizar estructuras desplegables tipo origami para aplicaciones aeroespaciales. Simulación computacional de estructuras tipo origami 
+            image: /images/projects/origami2.jpg
             featured:
-              name: Demo
-              link: https://django-converter.herokuapp.com
+              # name: Demo
+              # link: https://django-converter.herokuapp.com
             badges:
-              - "Django"
-              - "Bootstrap"
-            links:
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/converter
+              - "Grupo de Investigación en Mecánica Aplicada"
+              - "Mecánica Computacional"
+              - "Análisis Estructural"
+              - "Origami"
 
-          - title: Hugo Profile V2
-            content: A clean and simple Hugo template for personal portfolio and blog.
-            image: /images/projects/profile2.jpg
-            featured:
-              name: Demo V2
-              link: https://hugo-profile-2.netlify.app
-            badges:
-              - "Hugo"
-              - "Bootstrap"
-              - "Javascript"
             links:
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/HugoProfileV2
+            #   - icon: fab fa-github
+            #     url: https://github.com/gurusabarish/converter
 
       #Contact
       contact:
         enable: true
         title: Contáctame
-        content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        content: Si tienes alguna pregunta o deseas contactarme, ¡déjame un mensaje!
         email: marialeja199@gmail.com
         btnName: Escríbeme
         # formspree:
@@ -392,11 +399,10 @@ languages:
       # List pages like blogs and posts
       listPages:
         disableFeaturedImage: false
-        
+
       # Single pages like blog and post
       singlePages:
         readTime:
           enable: true
           content: "minutos de lectura"
 
-          
