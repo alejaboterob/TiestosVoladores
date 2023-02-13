@@ -34,11 +34,13 @@ Primero, busqué una plantilla libre que me permitiera empezar fácilmente. En [
 
 Yo elegí [hugo-profile](https://hugo-profile.netlify.app/) dado que tiene modo claro y oscuro, etiquetas para mis entradas del blog, buscador y un diseño minimalista, limpio y *responsive*. Cloné el repositorio en mi GitHub y luego de crear una cuenta en [Netlify](https://netlify.com/), conecté mi cuenta de GitHub para elegir el repositorio y configurar mi nuevo blog. Cambié el nombre del sitio para tener mi url personalizada y personalicé la plantilla a mi gusto. 
 
-![Untitled](/blogs/images/Untitled.png)
+{{</* dynamic-img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled.png" title="Configuración del repositorio en Netlify" style="max-width:80%" */>}}
+
 
 [Netlify](https://netlify.com/) toma los cambios del repositorio de Github y los aplica automáticamente a mi blog, así que cada vez que hago un commit y push en mi repositorio, los cambios se muestran en mi sitio. Esto hace que sea muy sencillo administrar mi blog.
 
-![Untitled](/blogs/images/Untitled%201.png)
+
+{{</* dynamic-img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25201.png" title="Configuración del nombre del sitio" style="max-width:80%" */>}}
 
 Otra opción es empezar con una plantilla directamente desde [Netlify](https://netlify.com/). 
 
@@ -48,25 +50,27 @@ Ahora, con estos sencillos pasos tengo un blog en la web listo para comenzar a e
 
 Para continuar personalizando mi blog, desde GitHub abrí mi repositorio con GitHub Desktop y luego con un editor de código, como Visual Studio Code, empecé a configurar toda la página. Primero, en exampleSite edité el archivo config.yaml. 
 
-![Untitled](/blogs/images/Untitled%202.png)
+{{</* dynamic-img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25202.png" title="Abrir repositorio" style="max-width:80%" */>}}
 
 ### Agregando comentarios y reacciones a mis artículos
 
 Para agregar comentarios y reacciones a las entradas de blog utilicé [Disqus](https://disqus.com/), creé una cuenta y elegí el plan básico gratuito,  la configure en mi sitio y busqué el short name. En config.yaml agregué mi usuario en la línea disqusShortname y agregué el siguiente código.
 
-![Untitled](/blogs/images/Untitled%203.png)
+{{</* dynamic-img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25203.png" title="Configuración de comentarios en Disqus" style="max-width:80%" */>}}
 
 En config.yaml agregué mi Shortname en la línea ***disqusShortname:***.
 
 Para configurar Disqus, agregué  en ***exampleSite/layouts/_default/single.html*** el código que se encuentra en Disqus al configurar el sitio,  luego de la línea  ***{{ template "_internal/disqus.html" . }}*** 
 
-![Untitled](/blogs/images/Untitled%204.png)
+{{</* dynamic-img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25204.png" title="Configuración Google Analytics" style="max-width:80%" */>}}
+
 
 ### Agregando Google Analytics
 
 Agregué el Id de medición de Google Analytics en la línea ***googleAnalytics: G-MEASUREMENT_ID***, luego de [configurar Analytics en un sitio web](https://support.google.com/analytics/answer/9304153?hl=es/&visit_id=638100275137119050-2188285274&rd=1).
 
 En el archivo ***exampleSite/layouts/partials/head.html*** remplacé  {{ template "_internal/google_analytics.html"}} por el código suministrado por Google Analytics en la pestaña ***Instale la etiqueta de Google manualmente.*** 
+
 
 ## ¿Cómo agrego entradas a mi blog?
 
