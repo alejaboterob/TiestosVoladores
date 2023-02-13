@@ -32,10 +32,16 @@ Primero, busqué una plantilla libre que me permitiera empezar fácilmente. En [
 
 [Jamstack Themes](https://jamstackthemes.dev/)
 
-Yo elegí [hugo-profile](https://hugo-profile.netlify.app/) dado que tiene modo claro y oscuro, etiquetas para mis entradas del blog, buscador y un diseño minimalista, limpio y *responsive*. Cloné el repositorio en mi GitHub y luego de crear una cuenta en [Netlify](https://netlify.com/), conecté mi cuenta de GitHub para elegir el repositorio y configurar mi nuevo blog. Cambié el nombre del sitio para tener mi url personalizada y personalicé la plantilla a mi gusto. 
+Yo elegí [hugo-profile](https://hugo-profile.netlify.app/) dado que tiene modo claro y oscuro, etiquetas para mis entradas del blog, buscador y un diseño minimalista, limpio y *responsive*. Cloné el repositorio en mi GitHub y luego de crear una cuenta en [Netlify](https://netlify.com/), conecté mi cuenta de GitHub para elegir el repositorio y configurar mi nuevo blog. Cambié el nombre del sitio para tener mi url personalizada y personalicé la plantilla a mi gusto.
+
+{{< dynamic-img src="blogs/images/Untitled.png" title="A title for the image" style="max-width:60%" >}}
+
 
 {{</* dynamic-img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled.png" title="Configuración del repositorio en Netlify" style="max-width:80%" */>}}
 
+[](https://res.cloudinary.com/demo/image/upload/c_fill/images/Untitled.png)
+
+[](/TiestosVoladores/content/blogs/images/Untitled.png)
 
 [Netlify](https://netlify.com/) toma los cambios del repositorio de Github y los aplica automáticamente a mi blog, así que cada vez que hago un commit y push en mi repositorio, los cambios se muestran en mi sitio. Esto hace que sea muy sencillo administrar mi blog.
 
@@ -64,6 +70,7 @@ Para configurar Disqus, agregué  en ***exampleSite/layouts/_default/single.html
 
 {{</* dynamic-img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25204.png" title="Configuración Google Analytics" style="max-width:80%" */>}}
 
+https://res.cloudinary.com/demo/image/upload/c_fit/docs/handbag1.jpg
 
 ### Agregando Google Analytics
 
