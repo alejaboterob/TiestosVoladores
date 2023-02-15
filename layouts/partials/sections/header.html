@@ -27,7 +27,7 @@
     <nav class="pt-3 navbar navbar-expand-lg {{ if .Site.Params.animate }}animate{{ end }}">
         <div class="container-fluid mx-xs-2 mx-sm-5 mx-md-5 mx-lg-5">
             <!-- navbar brand -->
-            <a class="navbar-brand primary-font text-wrap" href="{{ .Site.BaseURL | relURL }}">
+            <a class="navbar-brand primary-font text-wrap" href="{{ .Site.BaseURL | relLangURL }}">
                 {{ if or (.Site.Params.favicon) (.Site.Params.navbar.brandLogo) }}
                 <img src="{{ .Site.Params.navbar.brandLogo | default .Site.Params.favicon }}" width="30" height="30"
                     class="d-inline-block align-top">
@@ -39,7 +39,7 @@
 
             {{ if not (.Site.Params.navbar.disableSearch | default false) }}
                 <div>
-                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder="Ctrl + k"
+                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder="Buscar (Ctrl + k)"
                         aria-label="Search" oninput="searchOnChange(event)">
                 </div>
             {{ end }}
@@ -65,7 +65,7 @@
 
                     {{ if and (.Site.Params.about.enable | default false) (not (.Site.Params.navbar.menus.disableAbout | default false)) }}
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#about" aria-label="about">
+                        <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#about" aria-label="about">
                             {{ .Site.Params.about.title | default "About" }}
                         </a>
                     </li>
@@ -73,7 +73,7 @@
 
                     {{ if and (.Site.Params.experience.enable | default false) (not (.Site.Params.navbar.menus.disableExperience | default false)) }}
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#experience"
+                        <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#experience"
                             aria-label="experience">
                             {{ .Site.Params.experience.title | default "Experience" }}
                         </a>
@@ -82,7 +82,7 @@
 
                     {{ if and (.Site.Params.education.enable | default false) (not (.Site.Params.navbar.menus.disableEducation | default false)) }}
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#education"
+                        <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#education"
                             aria-label="education">
                             {{ .Site.Params.education.title | default "Education" }}
                         </a>
@@ -91,7 +91,7 @@
 
                     {{ if and (.Site.Params.projects.enable | default false) (not (.Site.Params.navbar.menus.disableProjects | default false)) }}
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#projects"
+                        <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#projects"
                             aria-label="projects">
                             {{ .Site.Params.projects.title | default "Projects" }}
                         </a>
@@ -100,7 +100,7 @@
 
                     {{ if and (.Site.Params.achievements.enable | default false) (not (.Site.Params.navbar.menus.disableAchievements | default false)) }}
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#achievements"
+                        <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#achievements"
                             aria-label="achievements">
                             {{ .Site.Params.achievements.title | default "Achievements" }}
                         </a>
@@ -109,7 +109,7 @@
 
                     {{ if and (.Site.Params.contact.enable | default false) (not (.Site.Params.navbar.menus.disableContact | default false)) }}
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#contact"
+                        <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#contact"
                             aria-label="contact">
                             {{ .Site.Params.contact.title | default "Contact" }}
                         </a>
