@@ -23,7 +23,7 @@ markup:
       unsafe: true
 
 defaultContentLanguage: "es"
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
   es:
@@ -33,7 +33,7 @@ languages:
         - identifier: blog
           name: Blog
           title: Artículos
-          url: /es/blogs
+          url: /blogs/es
           weight: 1
         # - identifier: gallery
         #   name: Galería
@@ -412,7 +412,7 @@ languages:
         - identifier: blog
           name: Blog
           title: Blog
-          url: /en/blogs/
+          url: /en/blogs/en/
           weight: 1
         # - identifier: gallery
         #   name: Galería
@@ -453,12 +453,12 @@ languages:
           url: /en
           parent: Languages
           weight: 1
-        - identifier: Language3
-          title: Haga clic aquí para cambiar a Español
-          name: French
-          url: /fr
-          parent: Languages
-          weight: 3
+        # - identifier: Language3
+        #   title: Haga clic aquí para cambiar a Español
+        #   name: French
+        #   url: /fr
+        #   parent: Languages
+        #   weight: 3
 
 
     params:
@@ -572,7 +572,6 @@ languages:
       # Experience
       experience:
         enable: false
-        url: /en/#experience
         title: "Experiencia"
         items:
           - job: "Senior Software Developer"
@@ -635,7 +634,6 @@ languages:
       education:
         enable: true
         title: "Education"
-        url: /en/#education
         index: false
         items:
           - title: "Master's student in Applied Physics"
