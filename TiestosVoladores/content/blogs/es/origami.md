@@ -12,7 +12,7 @@ tags:
   - Diseño Estructural
   - Análisis Estructural
   - Proyecto
-image: /images/post.jpg
+image: /images/Origami-crane.jpg
 description: "Análisis y diseño de estructuras desplegables basadas en origami"
 toc:
 ---
