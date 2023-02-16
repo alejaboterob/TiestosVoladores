@@ -35,14 +35,14 @@ Sin embargo, para poder ser lanzado al espacio debía considerarse el lanzador, 
 
 <p align = "center">
 
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/JWST.png" title="Dimensiones telescopio JWST" style="max-width:100%; text-align: center" >
+<img src="https://res.cloudinary.com/drmismgwi/image/upload/v1676560655/JWST_hqaixb.png" title="Dimensiones telescopio JWST" style="max-width:100%; text-align: center" >
 </p>
 <p align = "center">
 Dimensiones telescopio JWST. Fuente: NASA/JPL-Caltech
 </p>
 
 <p align = "center">
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/ariane.jpg" title="Telescopio JWST plegado y ubicado en el Ariane 5" style="max-width:100%; text-align: center" >
+<img src="https://res.cloudinary.com/drmismgwi/image/upload/v1676560654/ariane_a3xyar.jpg" title="Telescopio JWST plegado y ubicado en el Ariane 5" style="max-width:100%; text-align: center" >
 </p>
 <p align = "center">
 Telescopio JWST plegado y ubicado en el Ariane 5. Fuente: NASA
