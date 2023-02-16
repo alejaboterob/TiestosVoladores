@@ -21,7 +21,7 @@
             <div class="text-center">
               {{ .Params.author }} 
               <small>|</small>
-              {{ .Date.Format "Enero 2, 2006" }}
+              {{  .Date | time.Format ":date_long"   }}
 
               {{ if or (.Site.Params.singlePages.readTime.enable | default true) (.Params.enableReadingTime) }}
               <span id="readingTime">
