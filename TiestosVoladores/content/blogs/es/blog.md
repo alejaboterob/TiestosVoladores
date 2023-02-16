@@ -13,8 +13,6 @@ description: "¿Cómo empecé mi propio blog con Netlify?"
 toc:
 ---
 
-# ¿Cómo empecé mi propio blog?
-
 Si estás buscando una señal para empezar tu propio blog y compartir con tu yo del futuro o con el mundo algunos aprendizajes, experiencias y opiniones, aquí la tienes. 
 
 Desde hace mucho quería empezar mi propio blog pero por otros proyectos nunca había dado tan siquiera el primer paso. Hace poco [Nicolás Guarín](https://nicoguaro.github.io/pages/about/) me convenció con un artículo,  “*inicia un p**o blog: Vamos, hazlo ahora mismo, es lo mejor que puedes hacer en la web”.*
@@ -23,7 +21,7 @@ Desde hace mucho quería empezar mi propio blog pero por otros proyectos nunca h
 >Go on, do it right fucking now - it's the best thing on the web you can do.
 
 
-Gracias a esta página conocí [Netlify](https://netlify.com/), una plataforma gratuita desarrollada para alojar y administrar aplicaciones web que incluye dominios personalizados y funciona bastante bien para proyectos personales y sitios web estáticos como blogs, galerías de imágenes, portafolios, entre otros.
+Gracias a esta página conocí [Netlify](https://netlify.com/), una plataforma gratuita desarrollada para alojar y administrar aplicaciones web que incluye dominios personalizados y funciona bastante bien para proyectos personales y sitios web estáticos como blogs, galerías de imágenes, portafolios, entre otros.  
 
 ## ¿Cómo empecé mi propio blog desde cero?
 
@@ -43,35 +41,35 @@ Yo elegí [hugo-profile](https://hugo-profile.netlify.app/) dado que tiene modo 
 
 Otra opción es empezar con una plantilla directamente desde [Netlify](https://netlify.com/).
 
-Ahora, con estos sencillos pasos tengo un blog en la web listo para comenzar a escribir sobre cosas que me apasionan como los tiestos voladores 🚀 ✈️.
+Ahora, con estos sencillos pasos tengo un blog en la web listo para comenzar a escribir sobre cosas que me apasionan como los tiestos voladores 🚀 ✈️.  
 
 
 ## ¿Cómo personalicé mi blog?
 
-Para continuar personalizando mi blog, desde GitHub abrí mi repositorio con GitHub Desktop y luego con un editor de código, como Visual Studio Code, empecé a configurar toda la página. Primero, en exampleSite edité el archivo config.yaml. 
+Para continuar personalizando mi blog, desde GitHub abrí mi repositorio con GitHub Desktop y luego con un editor de código, como Visual Studio Code, empecé a configurar toda la página. Primero, en exampleSite edité el archivo config.yaml.
 
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25202.png" title="Abrir repositorio con GitHub Desktop" style="max-width:100%; text-align: center;" >
+<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25202.png" title="Abrir repositorio con GitHub Desktop" style="max-width:100%; text-align: center;" >    
 
 
 ### Agregando comentarios y reacciones a mis artículos
 
 Para agregar comentarios y reacciones a las entradas de blog utilicé [Disqus](https://disqus.com/), creé una cuenta y elegí el plan básico gratuito,  la configure en mi sitio y busqué el short name. En config.yaml agregué mi usuario en la línea disqusShortname y agregué el siguiente código.
 
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25203.png" title="Configuración de comentarios en Disqus" style="max-width:100%; text-align: center" >
+<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25203.png" title="Configuración de comentarios en Disqus" style="max-width:100%; text-align: center" >  
 
 
 En config.yaml agregué mi Shortname en la línea ***disqusShortname:***.
 
 Para configurar Disqus, agregué  en ***exampleSite/layouts/_default/single.html*** el código que se encuentra en Disqus al configurar el sitio,  luego de la línea  ***{{ template "_internal/disqus.html" . }}*** 
 
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25204.png" title="Configuración Google Analytics" style="max-width:100%; text-align: center" >
+<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25204.png" title="Configuración Google Analytics" style="max-width:100%; text-align: center" >  
 
 
 ### Agregando Google Analytics
 
 Agregué el Id de medición de Google Analytics en la línea ***googleAnalytics: G-MEASUREMENT_ID***, luego de [configurar Analytics en un sitio web](https://support.google.com/analytics/answer/9304153?hl=es/&visit_id=638100275137119050-2188285274&rd=1).
 
-En el archivo ***exampleSite/layouts/partials/head.html*** remplacé  {{ template "_internal/google_analytics.html"}} por el código suministrado por Google Analytics en la pestaña ***Instale la etiqueta de Google manualmente.*** 
+En el archivo ***exampleSite/layouts/partials/head.html*** remplacé  {{ template "_internal/google_analytics.html"}} por el código suministrado por Google Analytics en la pestaña ***Instale la etiqueta de Google manualmente.***   
 
 
 ## ¿Cómo agrego entradas a mi blog?
