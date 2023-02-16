@@ -33,7 +33,7 @@ languages:
         - identifier: blog
           name: Blog
           title: Artículos
-          url: /blogs/es
+          url: /es/blogs/es
           weight: 1
         # - identifier: gallery
         #   name: Galería
