@@ -23,7 +23,7 @@ markup:
       unsafe: true
 
 defaultContentLanguage: "es"
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 languages:
   es:
