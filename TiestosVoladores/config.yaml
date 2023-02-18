@@ -336,7 +336,7 @@ languages:
             content: En este proyecto se quieren desarrollar métodos para diseñar y analizar  estructuras con pliegues de origami. Para esto, es necesario combinar técnicas de mecánica computacional, con métodos de pliegue tradicionales del arte de origami.
             image: /images/projects/origami.jpg
             featured:
-              # name: Demo
+              name: Leer más
               link: https://tiestosvoladores.netlify.app/es/blogs/es/origami/
             badges:
               - "Mecánica Aplicada"
@@ -354,7 +354,7 @@ languages:
             content: Desarrollo de métodos para diseñar y analizar estructuras desplegables tipo origami para aplicaciones aeroespaciales. Simulación computacional de estructuras tipo origami 
             image: /images/projects/origami2.jpg
             featured:
-              # name: Demo
+              name: Leer más
               link: https://tiestosvoladores.netlify.app/es/blogs/es/origami/
             badges:
               - "Mecánica Aplicada"
