@@ -55,10 +55,16 @@ Telescopio JWST plegado y ubicado en el Ariane 5. Fuente: NASA
 
 ## Retos de las estructuras desplegables
 
+Aunque las estructuras basadas en origami tienen muchas ventajas, como su facilidad de transporte y almacenamiento, también existen varios desafíos asociados con su uso. Estas estructuras son complejas, dado que poseen partes móviles y actuadores, que deben plegarse y desplegarse según la configuración deseada, garantizando una alta fiabilidad en la geometría final y la funcionalidad de la estructura. El análisis y la simulación computacional se convierten en una herramienta importante que permite visualizar y probar su comportamiento para que dichas estructuras puedan ser utilizadas exitosamente en el espacio. 
 
 
 ## Análisis y diseño de estructuras desplegables basadas en origami
 
 En este proyecto se busca desarrollar métodos para diseñar y analizar estructuras desplegables tipo origami, principalmente para aplicaciones aeroespaciales. Para ello, se realizará una revisión del estado del arte respecto a la modelación de estructuras desplegables tipo origami. Además, se implementarán algoritmos que permitan analizar estructuras desplegables tipo origami en programas de software libre disponibles. Finalmente, se evaluarán las capacidades de simulación de los métodos desarrollados a través de una prueba de concepto experimental.
 
-Para este proyecto se trabaja de la mano de la Fundación Cydonia, dedicada al desarrollo aeroespacial en Colombia (Fundación Cydonia 2022). Esta fundación es la responsable del diseño, construcción y operación del Hábitat Análogo de Exploración Espacial Simulada en Colombia (HAdEES-C), primer hábitat de simulación para misiones análogas construido en Colombia. Sus instalaciones permiten simular algunas de las condiciones de Marte o la Luna acá en la Tierra, y probar aspectos relacionados con los viajes espaciales tripulados y la exploración planetaria. 
+Para este proyecto se trabaja de la mano de la Fundación Cydonia, dedicada al desarrollo aeroespacial en Colombia. Esta fundación es la responsable del diseño, construcción y operación del Hábitat Análogo de Exploración Espacial Simulada en Colombia (HAdEES-C), primer hábitat de simulación para misiones análogas construido en Colombia. Sus instalaciones permiten simular algunas de las condiciones de Marte o la Luna acá en la Tierra, y probar aspectos relacionados con los viajes espaciales tripulados y la exploración planetaria. 
+
+## Referencias
+
+Tibert, Gunnar. 2002. “Deployable tensegrity structures for space applications”. PhD Thesis, KTH.
+
