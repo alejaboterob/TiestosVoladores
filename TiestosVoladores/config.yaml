@@ -337,7 +337,7 @@ languages:
             image: /images/projects/origami.jpg
             featured:
               # name: Demo
-              # link: https://hugo-profile.netlify.app
+              link: https://tiestosvoladores.netlify.app/es/blogs/es/origami/
             badges:
               - "Mecánica Aplicada"
               - "Origami"
@@ -355,7 +355,7 @@ languages:
             image: /images/projects/origami2.jpg
             featured:
               # name: Demo
-              # link: https://django-converter.herokuapp.com
+              link: https://tiestosvoladores.netlify.app/es/blogs/es/origami/
             badges:
               - "Mecánica Aplicada"
               - "Mecánica Computacional"
