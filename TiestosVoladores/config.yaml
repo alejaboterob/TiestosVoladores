@@ -296,7 +296,7 @@ languages:
           - title: "Bachiller técnica en Desarrollo de Software"
             school:
               name: "Institución Educativa Fundación Celia Duque"
-              # url: "https://example.org"
+              url: "https://fundacionceliaduque.edu.co/"
             # GPA: "4.2 out of 5.0"
             content: |-
               - Técnico en Desarrollo de Software
@@ -402,11 +402,8 @@ languages:
         readTime:
           enable: true
           content: "minutos de lectura"
-
-# ##################################################################################################################
-# # ENGLISH         
   en:
-    languageName: English
+    languageName: Spanish
     Menus:
       main:
         - identifier: blog
@@ -459,12 +456,10 @@ languages:
         #   url: /fr
         #   parent: Languages
         #   weight: 3
-
-
     params:
       title: "Tiestos Voladores"
       description: Flying Stuff is the personal blog of Maria Alejandra Botero Botero. You will find articles related to aerospace engineering and my projects.
-      staticPath: "/en"  # The path to serve the static files from
+      #staticPath: "/en"  # The path to serve the static files from
       favicon: "/lan.png"
 
       # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -675,7 +670,7 @@ languages:
           - title: "High School"
             school:
               name: "Institución Educativa Fundación Celia Duque"
-              # url: "https://example.org"
+              url: "https://fundacionceliaduque.edu.co/"
             # GPA: "4.2 out of 5.0"
             content: |-
               - Software Programming Technician.
@@ -779,7 +774,5 @@ languages:
         readTime:
           enable: true
           content: "min read"
-
-
 
 
