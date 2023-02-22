@@ -7,11 +7,9 @@ github_link: "https://https://github.com/alejaboterob"
 author: "Maria Alejandra Botero Botero"
 tags:
   - Origami
-  - Mecánica computacional
   - Estructuras
-  - Diseño Estructural
-  - Análisis Estructural
-  - Proyecto
+  - Mecánica computacional
+  - Proyectos
 image: /images/Origami-crane.jpg 
 description: "Análisis y diseño de estructuras desplegables basadas en origami"
 toc:
