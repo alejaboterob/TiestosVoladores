@@ -58,21 +58,21 @@ languages:
         #   parent: dropdown
         #   weight: 2
         #Dropdown menu
-        - identifier: Languages
-          title: Cambia el lenguaje
-          name: Idioma
-          weight: 7
-        - identifier: Español
-          title: Haga clic aquí para cambiar a Español
-          name: Español
-          url: /
-          parent: Languages
+        # - identifier: Languages
+        #   title: Cambia el lenguaje
+        #   name: Idioma
+        #   weight: 7
+        # - identifier: Español
+        #   title: Haga clic aquí para cambiar a Español
+        #   name: ES
+        #   url: /
+          # parent: Languages
           weight: 1
         - identifier: Language2
           title: Click here to change to English
-          name: English
+          name: EN
           url: /en
-          parent: Languages
+          # parent: Languages
           weight: 2
         # - identifier: Language3
         #   title: Haga clic aquí para cambiar a Español
@@ -434,22 +434,22 @@ languages:
         #   parent: dropdown
         #   weight: 2
         #Dropdown menu
-        - identifier: Languages
-          title: Cambia el lenguaje
-          name: Language
-          weight: 7
+        # - identifier: Languages
+        #   title: Cambia el lenguaje
+        #   name: Language
+        #   weight: 7
         - identifier: Español
           title: Haga clic aquí para cambiar a Español
-          name: Español
+          name: ES
           url: /
-          parent: Languages
+          # parent: Languages
           weight: 2
-        - identifier: Language2
-          title: Click here to change to English
-          name: English
-          url: /en
-          parent: Languages
-          weight: 1
+        # - identifier: Language2
+        #   title: Click here to change to English
+        #   name: English
+        #   url: /en
+        #   parent: Languages
+        #   weight: 1
         # - identifier: Language3
         #   title: Haga clic aquí para cambiar a Español
         #   name: French
