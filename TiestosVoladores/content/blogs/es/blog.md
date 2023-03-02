@@ -15,7 +15,7 @@ toc:
 
 Si estás buscando una señal para empezar tu propio blog y compartir con tu yo del futuro o con el mundo algunos aprendizajes, experiencias y opiniones, aquí la tienes. 
 
-Desde hace mucho quería empezar mi propio blog pero por otros proyectos nunca había dado tan siquiera el primer paso. Hace poco [Nicolás Guarín](https://nicoguaro.github.io/pages/about/) me convenció con un artículo,  “*inicia un p**o blog: Vamos, hazlo ahora mismo, es lo mejor que puedes hacer en la web”.*
+Desde hace mucho quería empezar mi propio blog pero por otros proyectos nunca había dado tan siquiera el primer paso. Hace poco [Nicolás Guarín](https://nicoguaro.github.io/pages/about/) me convenció con un artículo que me envió,  *“inicia un p**o blog: Vamos, hazlo ahora mismo, es lo mejor que puedes hacer en la web”.*
 
 >🔗 [Start a Fucking Blog](https://startafuckingblog.com)
 >Go on, do it right fucking now - it's the best thing on the web you can do.
@@ -71,7 +71,7 @@ En config.yaml agregué mi Shortname en la línea ***disqusShortname:***.
 Para configurar Disqus, agregué  en ***exampleSite/layouts/_default/single.html*** el código que se encuentra en Disqus al configurar el sitio,  luego de la línea  ***{{ template "_internal/disqus.html" . }}*** 
 
 <p align = "center">
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25204.png" title="Configuración Google Analytics" style="max-width:100%; text-align: center" >  
+<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1675961672/https://master--tiestosvoladores.netlify.app/blogs/images/Untitled%25204.png" title="Configuración de comentarios en Disqus" style="max-width:100%; text-align: center" >  
 </p>
 
 
