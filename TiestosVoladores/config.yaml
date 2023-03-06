@@ -23,17 +23,19 @@ markup:
       unsafe: true
 
 defaultContentLanguage: "es"
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
   es:
     languageName: Spanish
+    contentDir: es/content
+
     Menus:
       main: 
         - identifier: blog
           name: Blog
           title: Artículos
-          url: /es/blogs/es
+          url: blogs/
           weight: 1
         # - identifier: gallery
         #   name: Galería
@@ -67,7 +69,7 @@ languages:
         #   name: ES
         #   url: /
           # parent: Languages
-          weight: 1
+          # weight: 1
         - identifier: Language2
           title: Click here to change to English
           name: EN
@@ -86,7 +88,7 @@ languages:
       title: "Tiestos Voladores"
       description: Tiestos Voladores es el blog personal de Maria Alejandra Botero Botero. Encontrarás artículos relacionados con ingeniería aeroespacial y mis proyectos.
       # staticPath: ""  # The path to serve the static files from
-      favicon: "/lan.png"
+      favicon: "/logo.png"
 
       # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
       # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -403,13 +405,15 @@ languages:
           enable: true
           content: "minutos de lectura"
   en:
-    languageName: Spanish
+    languageName: English
+    contentDir: en/content/
+
     Menus:
       main:
         - identifier: blog
           name: Blog
           title: Blog
-          url: /en/blogs/en/
+          url: blogs/
           weight: 1
         # - identifier: gallery
         #   name: Galería
@@ -460,7 +464,7 @@ languages:
       title: "Tiestos Voladores"
       description: Flying Stuff is the personal blog of Maria Alejandra Botero Botero. You will find articles related to aerospace engineering and my projects.
       #staticPath: "/en"  # The path to serve the static files from
-      favicon: "/lan.png"
+      favicon: "/logo.png"
 
       # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
       # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.

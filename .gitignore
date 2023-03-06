@@ -4,6 +4,7 @@
 .vscode
 /TiestosVoladores/themes/hugo-profile
 
+/TiestosVoladores/public
 ### Hugo ###
 # Generated files by hugo
 /public/
