@@ -27,7 +27,7 @@
                 </div>
                 <div class="mt-auto card-footer">
                     <span class="float-start">{{  .Date | time.Format ":date_long"   }}</span>
-                    <a href="{{ .RelPermalink }}" class="float-end btn btn-outline-info btn-sm"> {{ .Site.Languages.Params.footer.recentPosts.buttonTitle | default "Read" }}
+                    <a href="{{ .RelPermalink }}" class="float-end btn btn-outline-info btn-sm"> {{ .Site.Params.footer.recentPosts.buttonTitle | default "Read" }}
                     </a>
                 </div>
             </div>
