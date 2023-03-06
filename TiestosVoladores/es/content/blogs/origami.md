@@ -11,7 +11,9 @@ tags:
   - Mecánica computacional
   - Proyectos
 image: /images/Origami-crane.jpg 
-description: "Análisis y diseño de estructuras desplegables basadas en origami"
+description: "El origami o el arte de doblar papel para convertirlo en diversos objetos tridimensionales, que van desde aviones de papel hasta animales, ha servido como fuente de inspiración para el diseño de estructuras cada vez más compactas y versátiles. Recientemente el entendimiento del origami desde modelos matemáticos y el interés creciente por el diseño asistido por computador han permitido la creación, el análisis y la simulación de estructuras desplegables.
+
+En este artículo, se presentará el proyecto **Análisis y Diseño de Estructuras Desplegables Basadas en Origami**. El objetivo de este proyecto es desarrollar métodos para diseñar y analizar estructuras desplegables de tipo origami, principalmente para aplicaciones aeroespaciales."
 toc:
 ---
 
@@ -31,21 +33,15 @@ El telescopio espacial JWST, lanzado en diciembre de 2021, es el observatorio ci
 
 Sin embargo, para poder ser lanzado al espacio debía considerarse el lanzador, un cohete Ariane 5, es por esto que el telescopio se pliega hasta aproximadamente una cuarta parte de su tamaño completo. Una vez en el espacio, fue desplegado gradualmente mientras se dirigía a su órbita.
 
-
-<dynamic-img src="/TiestosVoladores/content/blogs/images/ariane.jpg" title="A title for the image">
-
-
-<dynamic-img src="/TiestosVoladores/content/blogs/images/ariane.jpg" title="A title for the image">
-
-
 <p align = "center">
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1676561688/https://res.cloudinary.com/drmismgwi/image/upload/v1676560655/JWST_hqaixb.png" title="Dimensiones telescopio JWST" style="max-width:100%">
+<img alt="Dimensiones telescopio JWST" title="Dimensiones telescopio JWST" data-src="/blogs/images/JWST.png" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
 </p>
 <p align = "center">
 Dimensiones telescopio JWST. Fuente: NASA/JPL-Caltech
 </p>
+
 <p align = "center">
-<img src="https://res.cloudinary.com/drmismgwi/image/fetch/v1676561688/https://res.cloudinary.com/drmismgwi/image/upload/v1676560654/ariane_a3xyar.jpg" title="Telescopio JWST plegado y ubicado en el Ariane 5" style="height:500px">
+<img alt="Telescopio JWST plegado y ubicado en el Ariane 5" title="Telescopio JWST plegado y ubicado en el Ariane 5" data-src="/blogs/images/ariane.jpg" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; height:500px; {{ $style }}">
 </p>
 <p align = "center">
 Telescopio JWST plegado y ubicado en el Ariane 5. Fuente: NASA
