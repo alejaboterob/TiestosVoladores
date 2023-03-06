@@ -388,6 +388,7 @@ languages:
           title: Artículos Recientes #Recent Posts
           enable: true
           disableFeaturedImage: false
+          buttonTitle : Leer
         socialNetworks:
           github: https://github.com/alejaboterob
           linkedin: https://www.linkedin.com/in/mabb/
@@ -762,6 +763,7 @@ languages:
           title: Recent Posts
           enable: true
           disableFeaturedImage: false
+          buttonTitle : Read
         socialNetworks:
           github: https://github.com/alejaboterob
           linkedin: https://www.linkedin.com/in/mabb/
