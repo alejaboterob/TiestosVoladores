@@ -339,7 +339,7 @@ languages:
             image: /images/projects/origami.jpg
             featured:
               name: Leer más
-              link: https://tiestosvoladores.netlify.app/es/blogs/es/origami/
+              link: https://tiestosvoladores.netlify.app/blogs/origami/
             badges:
               - "Mecánica Aplicada"
               - "Origami"
@@ -357,7 +357,7 @@ languages:
             image: /images/projects/origami2.jpg
             featured:
               name: Leer más
-              link: https://tiestosvoladores.netlify.app/es/blogs/es/origami/
+              link: https://tiestosvoladores.netlify.app/blogs/origami/
             badges:
               - "Mecánica Aplicada"
               - "Mecánica Computacional"
@@ -713,8 +713,8 @@ languages:
             content: In this project we want to develop methods to design and analyze structures with origami creases. For this, it is necessary to combine computational mechanics techniques with traditional origami folding methods.
             image: /images/projects/origami.jpg
             featured:
-              # name: Demo
-              # link: https://hugo-profile.netlify.app
+              name: Read more
+              link: https://tiestosvoladores.netlify.app/en/blogs/origami/
             badges:
               - "Applied Mechanics Research Group"
               - "Origami"
@@ -731,8 +731,8 @@ languages:
             content: Development of methods to design and analyze deployable origami-like structures for aerospace applications. Computational simulation of origami-like structures.
             image: /images/projects/origami2.jpg
             featured:
-              # name: Demo
-              # link: https://django-converter.herokuapp.com
+              name: Read more
+              link: https://tiestosvoladores.netlify.app/en/blogs/origami/
             badges:
               - "Applied Mechanics Research Group"
               - "Origami"
