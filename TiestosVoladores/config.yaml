@@ -395,6 +395,10 @@ languages:
           twitter: https://twitter.com/alejaboterob
           instagram: https://www.instagram.com/alejaboterob/
           # facebook: https://facebook.com
+        copyrightText: "Hecho con "
+        copyrightAnd: " y "
+
+
 
       # List pages like blogs and posts
       listPages:
@@ -771,6 +775,9 @@ languages:
           twitter: https://twitter.com/alejaboterob
           instagram: https://www.instagram.com/alejaboterob/
           # facebook: https://facebook.com
+        copyrightText: "Made with "
+        copyrightAnd: " and "
+
 
       # List pages like blogs and posts
       listPages:
