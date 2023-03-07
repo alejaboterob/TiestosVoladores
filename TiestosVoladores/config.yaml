@@ -405,6 +405,7 @@ languages:
         readTime:
           enable: true
           content: "minutos de lectura"
+        tocName: "Tabla de Contenidos"
   en:
     languageName: English
     contentDir: en/content/
@@ -780,5 +781,6 @@ languages:
         readTime:
           enable: true
           content: "min read"
+        tocName: "Table of Contents"
 
 

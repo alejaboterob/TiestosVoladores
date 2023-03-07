@@ -45,7 +45,7 @@
           {{ if .Params.toc | default true}}
           <aside class="toc">
               <h5>
-                Tabla de Contenidos
+                {{ .Site.Params.singlePages.tocName | default "Table of Contents" }}   
               </h5>
               <div class="toc-content">
                 {{.TableOfContents}}
