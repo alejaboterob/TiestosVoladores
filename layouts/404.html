@@ -3,14 +3,14 @@
 {{ end }}
 
 {{ define "title" }}
-{{ .Site.Title }} | 404 Página no encontrada
+{{ .Site.Title }} | {{ .Site.Params.terms.pageNotFound | default "404 page not found" }}
 {{ end }}
 
 {{ define "main" }}
 <div class="container py-5 text-center">
-    <img src="{{ .Site.Params.staticPath }}/404.jpg" alt="404 Página no encontrada" class="img-fluid" width="40%">
-    <h1>404 Página no encontrada</h1>
-    <a href="https://www.freepik.com/free-vector/page-found-concept-illustration_7887410.htm#query=404&position=3&from_view=keyword">Image by storyset</a> on Freepik
-    
+    <img src="{{ .Site.Params.staticPath }}/404.png" alt='{{ .Site.Params.terms.pageNotFound | default "404 page not found" }}' class="img-fluid" width="40%">
+    <h1>{{ .Site.Params.terms.pageNotFound | default "404 page not found" }}</h1>
+    <!-- <a href="https://www.freepik.com/free-vector/page-found-concept-illustration_7887410.htm#query=404&position=3&from_view=keyword">Image by storyset</a> on Freepik -->
+
 </div>
 {{ end }}
