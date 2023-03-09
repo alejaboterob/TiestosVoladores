@@ -55,7 +55,9 @@
 
           {{ if .Params.tags }}
           <aside class="tags">
-            <h5>Etiquetas</h5>
+            <h5>
+              {{ .Site.Params.singlePages.tagsName | default "Tags" }} 
+            </h5>
             <ul class="tags-ul list-unstyled list-inline">
               {{range .Params.tags}}
               <li class="list-inline-item"><a href="{{`tags` | absLangURL}}/{{.| urlize}}" target="_blank">{{.}}</a></li>
@@ -66,7 +68,9 @@
 
           {{ if .Params.socialShare | default true }}
           <aside class="social">
-            <h5>Compártelo</h5>
+            <h5>
+              {{ .Site.Params.singlePages.shareName | default "Share it" }} 
+            </h5>
             <div class="social-content">
               <ul class="list-inline">
                 <li class="list-inline-item text-center">

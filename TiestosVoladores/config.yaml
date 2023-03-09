@@ -413,6 +413,9 @@ languages:
           enable: true
           content: "minutos de lectura"
         tocName: "Tabla de Contenidos"
+        tagsName: "Etiquetas"
+        shareName: "Compártelo"
+
   en:
     languageName: English
     contentDir: en/content/
@@ -795,5 +798,7 @@ languages:
           enable: true
           content: "min read"
         tocName: "Table of Contents"
+        tagsName: "Tags"
+        shareName: "Share it"
 
 
