@@ -35,7 +35,7 @@ languages:
         - identifier: blog
           name: Blog
           title: Artículos
-          url: blogs/
+          url: /blogs/
           weight: 1
         # - identifier: gallery
         #   name: Galería
@@ -422,7 +422,7 @@ languages:
         - identifier: blog
           name: Blog
           title: Blog
-          url: blogs/
+          url: /blogs/
           weight: 1
         # - identifier: gallery
         #   name: Galería
