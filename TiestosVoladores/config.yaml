@@ -422,7 +422,7 @@ languages:
         - identifier: blog
           name: Blog
           title: Blog
-          url: /blogs/
+          url: /en/blogs/
           weight: 1
         # - identifier: gallery
         #   name: Galería
