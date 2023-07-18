@@ -153,7 +153,8 @@ languages:
         #intro: "Hola, soy "
         title: "Tiestos Voladores"
         subtitle: "Maria Alejandra Botero Botero"
-        content: "Soy Ingeniera Mecánica y futura Ingeniera Aeroespacial. Estudiante de maestría en Física Aplicada y pasante en la Fundación Cydonia."
+        content: "Soy Ingeniera Mecánica y futura Ingeniera Aeroespacial. 
+        Estudiante de maestría en Física Aplicada."
         image: /images/yo.jpg
         button:
           enable: false
@@ -541,7 +542,8 @@ languages:
         #intro: "Hola, soy "
         title: "Tiestos Voladores"
         subtitle: "Maria Alejandra Botero Botero"
-        content: "I am a Mechanical Engineer and future Aerospace Engineer. Master's student in Applied Physics and intern at Fundación Cydonia."
+        content: "I am a Mechanical Engineer and future Aerospace Engineer. 
+        Master's student in Applied Physics."
         image: /images/yo.jpg
         button:
           enable: false
