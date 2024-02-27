@@ -153,7 +153,7 @@ languages:
         #intro: "Hola, soy "
         title: "Tiestos Voladores"
         subtitle: "Maria Alejandra Botero Botero"
-        content: "Soy Ingeniera Mecánica y futura Ingeniera Aeroespacial. 
+        content: "Soy Ingeniera Mecánica e Ingeniera Aeroespacial. 
         Estudiante de maestría en Física Aplicada."
         image: /images/yo.jpg
         button:
@@ -271,12 +271,12 @@ languages:
             content: |-
               - Análisis y diseño de estructuras desplegables basadas en origami.
 
-          - title: "Estudiante de Ingeniería Aeroespacial"
+          - title: "Ingeniera Aeroespacial"
             school:
               name: "Universidad de Antioquia"
               url: "https://www.udea.edu.co/"
-            date: "2017 - Presente"
-            # GPA: "3.9 out of 5.0"
+            date: "2017 - 2023"
+            # GPA: " out of 5.0"
             content: |-
               - Miembro de los Semilleros de Investigación Voyager y Delta-V en cohetería, propulsión y tecnologías espaciales.
             featuredLink:
@@ -289,7 +289,7 @@ languages:
               name: "Universidad EAFIT"
               url: "https://www.eafit.edu.co/"
             date: "2015 - 2020"
-            # GPA: "3.9 out of 5.0"
+            # GPA: " out of 5.0"
             content: |-
               - Ingeniera mecánica con énfasis en mecánica computacional
               - Proyecto CanSat Kratos EAFIT-Postobón – Ganadores del primer lugar en mejor diseño y mejor foto por voto popular en el Global Space Balloon Challenge 2018.
@@ -303,7 +303,7 @@ languages:
             school:
               name: "Institución Educativa Fundación Celia Duque"
               url: "https://fundacionceliaduque.edu.co/"
-            # GPA: "4.2 out of 5.0"
+            # GPA: " out of 5.0"
             content: |-
               - Técnico en Desarrollo de Software
               - Mejor proyecto de grado de la “Red de Media Técnica en Informática de Antioquia”: REDES (Registro de Desaparecidos). Diseño de una aplicación web para la búsqueda y registro de personas desaparecidas.
@@ -542,7 +542,7 @@ languages:
         #intro: "Hola, soy "
         title: "Tiestos Voladores"
         subtitle: "Maria Alejandra Botero Botero"
-        content: "I am a Mechanical Engineer and future Aerospace Engineer. 
+        content: "I am a Mechanical Engineer and an Aerospace Engineer. 
         Master's student in Applied Physics."
         image: /images/yo.jpg
         button:
@@ -661,7 +661,7 @@ languages:
             content: |-
               - Analysis and design of deployable structures based on origami.
 
-          - title: "Aerospace Engineering Student"
+          - title: "Aerospace Engineer"
             school:
               name: "Universidad de Antioquia"
               url: "https://www.udea.edu.co/"
