@@ -559,7 +559,7 @@ languages:
               url: https://www.linkedin.com/in/mabb/
             - icon: fab fa-instagram
               url: https://www.instagram.com/alejaboterob/
-            - icon: fab fa-twitter
+            - icon: fab fa-x-twitter
               url: https://twitter.com/alejaboterob
           #customIcons:
           # - icon: /fav.png
