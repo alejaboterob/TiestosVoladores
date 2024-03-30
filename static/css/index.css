@@ -139,6 +139,7 @@ header .navbar.animate {
     padding: 0.7rem;
     border: 1px solid var(--primary-color);
     transition: none;
+    font-size: large;
 }
 
 #hero a.btn.social-icon img {
@@ -172,6 +173,34 @@ header .navbar.animate {
     background-color: var(--background-color) !important;
     opacity: 0.7;
 }
+
+
+
+#hero a.btn2 {
+    margin-top: 50px;
+    padding: 0.7rem 1.75rem;
+    border: 1px solid var(--secondary-color);
+    color: var(--secondary-color) !important;
+    border-radius: .75rem;
+    transition: none;
+}
+
+#hero a.btn2:focus {
+    box-shadow: none;
+}
+
+#hero a.btn2:hover {
+    background-color: var(--secondary-color) !important;
+    color: var(--text-color) !important;
+    opacity: 0.9;
+}
+
+#hero a.btn2.social-icon2:hover {
+    background-color: var(--background-color) !important;
+    opacity: 0.7;
+}
+
+
 
 #hero .hero-content > a {
     display: inline-block;
@@ -513,6 +542,10 @@ header .navbar.animate {
 #achievements .card-text {
     background-color: var(--secondary-color) !important;
     color: var(--text-secondary-color) !important;
+}
+
+#achievements img {
+    border-radius: 0.7rem;
 }
 
 /* contact */

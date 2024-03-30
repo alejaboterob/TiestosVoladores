@@ -153,8 +153,8 @@ languages:
         #intro: "Hola, soy "
         title: "Tiestos Voladores"
         subtitle: "Maria Alejandra Botero Botero"
-        content: "Soy Ingeniera Mecánica e Ingeniera Aeroespacial. 
-        Estudiante de maestría en Física Aplicada."
+        content: "De cariño le digo Tiestos Voladores a los cohetes, aviones, satélites y todo lo que vuela. 
+        Aquí encontrarás artículos relacionados con ingeniería aeroespacial y mis proyectos."
         image: /logo.png
         button:
           enable: false
@@ -201,18 +201,17 @@ languages:
         title: "Maria Alejandra Botero Botero"
         image: "/images/yo.jpg"
         content: |-
-          Soy Ingeniera Mecánica e Ingeniera Aeroespacial. 
-          Estudiante de maestría en Física Aplicada.
+          Ingeniera Mecánica e Ingeniera Aeroespacial. </br>
+          Estudiante de maestría en Física Aplicada. </br>
+          Presidenta de la <a href="https://acma.space" target=_blank>Asociación Colombiana de Mujeres en Aeroespacial</a>.
         skills:
           enable: true
-          title: "Here are a few technologies I've been working with recently:"
+          title: ""
           items:
-            - "HTML"
-            - "CSS"
-            - "JavaScript"
-            - "React"
-            - "Node"
-            - "Express"
+          -
+
+
+
         socialLinks:
           fontAwesomeIcons:
             - icon: fab fa-linkedin
