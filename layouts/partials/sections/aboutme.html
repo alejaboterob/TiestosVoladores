@@ -20,11 +20,11 @@
                     <li>{{ . | markdownify }}</li>
                     {{ end }}
                 </ul>
-                <div class="col-auto px-0 h-100">
-                    {{- partial "sections/social.html" . -}}
-                </div>
                 {{ end }}
                
+            </div>
+            <div class="col-auto px-0 h-100">
+                {{- partial "sections/social.html" . -}}
             </div>
         </div>
     </div>

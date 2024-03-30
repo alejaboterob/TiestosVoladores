@@ -203,15 +203,16 @@ languages:
         content: |-
           Ingeniera Mecánica e Ingeniera Aeroespacial. </br>
           Estudiante de maestría en Física Aplicada. </br>
-          Presidenta de la <a href="https://acma.space" target=_blank>Asociación Colombiana de Mujeres en Aeroespacial</a>.
+          Presidenta de la <a href="https://acma.space" target=_blank>Asociación Colombiana de Mujeres en Aeroespacial</a>.</br></br>
         skills:
           enable: true
-          title: ""
+          title: "Áreas de interés:"
           items:
-          -
-
-
-
+          - Mecánica Computacional
+          - Estructuras Desplegables
+          - Divulgación Científica
+          - Mujeres en STEAM
+          
         socialLinks:
           fontAwesomeIcons:
             - icon: fab fa-linkedin
@@ -595,7 +596,7 @@ languages:
 
       # About
       about:
-        enable: false
+        enable: true
         title: "Maria Alejandra Botero Botero"
         image: "/images/yo.jpg"
         content: |-
@@ -620,12 +621,16 @@ languages:
         content: |- 
           Mechanical Engineer and Aerospace Engineer. </br>
           Master's student in Applied Physics. </br>
-          President of the <a href="https://acma.space/en" target=_blank>Colombian Association of Women in Aerospace</a>.  
+          President of the <a href="https://acma.space/en" target=_blank>Colombian Association of Women in Aerospace</a>.  </br></br>
         skills:
           enable: true
-          title: ""
+          title: "Areas of interest:"
           items:
-          -
+          - Computational Mechanics
+          - Deployable Structures
+          - Scientific Outreach
+          - Women in STEAM
+      
         socialLinks:
           fontAwesomeIcons:
             - icon: fab fa-linkedin
