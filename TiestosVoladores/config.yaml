@@ -596,7 +596,7 @@ languages:
 
       # About
       about:
-        enable: true
+        enable: false
         title: "Maria Alejandra Botero Botero"
         image: "/images/yo.jpg"
         content: |-
