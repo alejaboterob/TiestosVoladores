@@ -155,7 +155,7 @@ languages:
         subtitle: "Maria Alejandra Botero Botero"
         content: "Soy Ingeniera Mecánica e Ingeniera Aeroespacial. 
         Estudiante de maestría en Física Aplicada."
-        image: /images/yo.jpg
+        image: /logo.png
         button:
           enable: false
           name: "Resume"
@@ -164,14 +164,14 @@ languages:
           newPage: false
         socialLinks:
           fontAwesomeIcons:
-            - icon: fab fa-github
-              url: https://github.com/alejaboterob
             - icon: fab fa-linkedin
               url: https://www.linkedin.com/in/mabb/
             - icon: fab fa-instagram
-              url: https://www.instagram.com/alejaboterob/
+              url: https://www.instagram.com/tiestosvoladores/
             - icon: fab fa-x-twitter
-              url: https://twitter.com/alejaboterob
+              url: https://twitter.com/aerotiestos
+            - icon: fab fa-github
+              url: https://github.com/alejaboterob
           #customIcons:
           # - icon: /fav.png
             #  url: "https://example.com"
@@ -179,11 +179,11 @@ languages:
       # About
       about:
         enable: false
-        title: "About Me"
-        image: "/images/me.png"
+        title: "Maria Alejandra Botero Botero"
+        image: "/images/yo.jpg"
         content: |-
-          I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
-          I am currently working on a project that will be used to help people find the best way to get around the city.
+          Soy Ingeniera Mecánica e Ingeniera Aeroespacial. 
+          Estudiante de maestría en Física Aplicada.
         skills:
           enable: true
           title: "Here are a few technologies I've been working with recently:"
@@ -194,6 +194,35 @@ languages:
             - "React"
             - "Node"
             - "Express"
+      
+      # About me
+      aboutme:
+        enable: true
+        title: "Maria Alejandra Botero Botero"
+        image: "/images/yo.jpg"
+        content: |-
+          Soy Ingeniera Mecánica e Ingeniera Aeroespacial. 
+          Estudiante de maestría en Física Aplicada.
+        skills:
+          enable: true
+          title: "Here are a few technologies I've been working with recently:"
+          items:
+            - "HTML"
+            - "CSS"
+            - "JavaScript"
+            - "React"
+            - "Node"
+            - "Express"
+        socialLinks:
+          fontAwesomeIcons:
+            - icon: fab fa-linkedin
+              url: https://www.linkedin.com/in/mabb/
+            - icon: fab fa-instagram
+              url: https://www.instagram.com/alejaboterob/
+            - icon: fab fa-x-twitter
+              url: https://twitter.com/alejaboterob
+            - icon: fab fa-github
+              url: https://github.com/alejaboterob
 
       # Experience
       experience:
