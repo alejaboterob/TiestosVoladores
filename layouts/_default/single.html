@@ -84,6 +84,16 @@
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
+                  <a target="_blank" href="https://www.facebook.com/sharer.php?u={{ .Permalink | absLangURL }}">
+                    <i class="fab fa-facebook"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item text-center">
+                  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=${{ .Permalink | absLangURL }}&title=${{ .Title }}: {{ .Site.Params.hostName }}">
+                    <i class="fab fa-linkedin"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item text-center">
                   <a target="_blank" href="mailto:?subject={{ .Title }}&amp;body=Check out this site {{ .Site.Params.hostName }}{{ .Permalink | absLangURL }}">
                     <i class="fa fa-envelope"></i>
                   </a>
