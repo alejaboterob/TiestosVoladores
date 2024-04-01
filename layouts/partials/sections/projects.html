@@ -24,14 +24,14 @@
                     <div class="card-footer py-3">
                         {{ range .links }}
                         <span class="m-1 mx-2">
-                            <a href="{{ .url }}" target="_blank">
+                            <a href="{{ .url }}">
                                 <i class="{{ .icon }}"></i>
                             </a>
                         </span>
                         {{ end }}
                         {{ if .featured }}
                         <span class="float-end">
-                            <a class="btn btn-sm" href="{{ .featured.link }}" target="_blank">
+                            <a class="btn btn-sm" href="{{ .featured.link }}">
                                 {{ .featured.name }}
                             </a>
                         </span>
