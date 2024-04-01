@@ -89,7 +89,7 @@
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=${{ .Permalink | absLangURL }}&title=${{ .Title }}: {{ .Site.Params.hostName }}">
+                  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | absLangURL }}&title={{ .Title }}: {{ .Site.Params.hostName }}">
                     <i class="fab fa-linkedin"></i>
                   </a>
                 </li>
