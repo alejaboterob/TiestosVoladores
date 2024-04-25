@@ -1,7 +1,7 @@
 ---
 title: "The art of paper folding: A source of inspiration for the design of aerospace structures"
 date: 2023-03-06T14:53:33+05:30 
-draft: false
+draft: true
 disqus: true
 github_link: "https://https://github.com/alejaboterob"
 author: "Maria Alejandra Botero Botero"
@@ -10,7 +10,6 @@ tags:
   - Structures
   - Computational Mechanics
   - Projects
-  - Aerospace
 image: /images/Origami-crane.jpg 
 description: "Origami, or the art of folding paper into a variety of three-dimensional objects, from paper airplanes to animals, has served as a source of inspiration for the design of increasingly compact and versatile structures. Recently, the understanding of origami from mathematical models and the growing interest in computer-aided design have enabled the creation, analysis, and simulation of foldable structures.
 

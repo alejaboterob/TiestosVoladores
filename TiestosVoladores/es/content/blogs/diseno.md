@@ -1,30 +1,35 @@
 ---
-title: "El arte de doblar papel: Una fuente de inspiración para el diseño de estructuras aeroespaciales "
-date: 2023-02-16T14:29:21+05:30
+title: "Del concepto a la realidad: Un recorrido por el proceso de diseño"
+date: 2023-07-18T14:29:21+05:30
 draft: false
 disqus: true
 github_link: "https://https://github.com/alejaboterob"
 author: "Maria Alejandra Botero Botero"
 tags:
-  - Origami
-  - Estructuras
-  - Mecánica computacional
-  - Proyectos
+  - Diseño
+  - Ingeniería de Sistemas
   - Aeroespacial
 image: /images/Origami-crane.jpg 
-description: "El origami o el arte de doblar papel para convertirlo en diversos objetos tridimensionales, que van desde aviones de papel hasta animales, ha servido como fuente de inspiración para el diseño de estructuras cada vez más compactas y versátiles. Recientemente el entendimiento del origami desde modelos matemáticos y el interés creciente por el diseño asistido por computador han permitido la creación, el análisis y la simulación de estructuras desplegables.
-
-En este artículo, se presentará el proyecto **Análisis y Diseño de Estructuras Desplegables Basadas en Origami**. El objetivo de este proyecto es desarrollar métodos para diseñar y analizar estructuras desplegables de tipo origami, principalmente para aplicaciones aeroespaciales."
+description: "El diseño es una parte fundamental de la ingeniería y del desarrollo de cualquier producto, desde algo tan simple como un objeto de uso cotidiano hasta algo tan complejo como una nave espacial. El diseño aeroespacial, aplicado a misiones espaciales, naves espaciales, satélites, cohetes y vehículos como orbitadores o *rovers*,  requiere un enfoque multidisciplinar que abarca desde la ciencia de los materiales y la propulsión hasta los factores humanos y la seguridad. Sin embargo, el diseño aeroespacial no es muy diferente del diseño de productos, sobre todo en cuanto a los principios y prácticas de diseño y el énfasis en el diseño centrado en el usuario. En esta entrada del blog, abordaremos los procesos de diseño utilizados en el diseño de productos y en el diseño aeroespacial, destacando algunas similitudes entre ambos campos y haciendo énfasis en los términos particulares empleados en el campo aeroespacial."
 toc:
 ---
 
-El origami o el arte de doblar papel para convertirlo en diversos objetos tridimensionales, que van desde aviones de papel hasta animales, ha servido como fuente de inspiración para el diseño de estructuras cada vez más compactas y versátiles. Recientemente el entendimiento del origami desde modelos matemáticos y el interés creciente por el diseño asistido por computador han permitido la creación, el análisis y la simulación de estructuras desplegables.
+El diseño es una parte fundamental de la ingeniería y del desarrollo de cualquier producto, desde algo tan simple como un objeto de uso cotidiano hasta algo tan complejo como una nave espacial. El diseño aeroespacial, aplicado a misiones espaciales, naves espaciales, satélites, cohetes y vehículos como orbitadores o *rovers*,  requiere un enfoque multidisciplinar que abarca desde la ciencia de los materiales y la propulsión hasta los factores humanos y la seguridad. Sin embargo, el diseño aeroespacial no es muy diferente del diseño de productos, sobre todo en cuanto a los principios y prácticas de diseño y el énfasis en el diseño centrado en el usuario. En esta entrada del blog, abordaremos los procesos de diseño utilizados en el diseño de productos y en el diseño aeroespacial, destacando algunas similitudes entre ambos campos y haciendo énfasis en los términos particulares empleados en el campo aeroespacial.
+## El proceso de diseño
 
-En este artículo, se presentará el proyecto **Análisis y Diseño de Estructuras Desplegables Basadas en Origami**. El objetivo de este proyecto es desarrollar métodos para diseñar y analizar estructuras desplegables de tipo origami, principalmente para aplicaciones aeroespaciales.
+El proceso de diseño típico se ve de la siguiente manera, partiendo de un concepto que se estudia, se desarrolla y continua evolucionando mientras es producido, probado y opera hasta el fin de su ciclo de vida. Esto quiere decir que el diseño generalmente es un proceso iterativo, donde al final de cada etapa se obtiene una versión con características o funcionalidades mejoradas. 
 
-## ¿Qué son las estructras desplegables?
+<p align = "center">
+<img alt="Proceso de diseño" title="Proceso de diseño" data-src="/blogs/images/diseno_img/1.png" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+</p>
 
-Las estructuras desplegables son aquellas que pueden cambiar su configuración de manera significativa. Normalmente, pasan de un estado plegado y compacto a uno grande y desplegado (Tibert 2002). El origami se ha utilizado para diseñar estructuras de tamaño reducido, lo que facilita el transporte y montaje de productos voluminosos. Esta técnica de doblado de papel, también conocida como papiroflexia, se está implementando cada vez más en diversos ámbitos, como aplicaciones aeroespaciales, refugios, estructuras de rescate, instalaciones lúdicas, dispositivos médicos, entre otros.
+En el campo aeroespacial, el proceso de diseño está enmarcado en la **ingeniería de sistemas** (*Systems Engineering*), no haciendo referencia al pregrado en relación con las tecnologías de la información y la comunicación ofrecido bajo este nombre, sino a lo que NASA define como un enfoque metódico y multidisciplinar para el diseño, desarrollo, operación, mantenimiento y retiro de un sistema. Teniendo en cuenta que un "sistema" es una combinación de elementos que funcionan juntos para producir la capacidad requerida para satisfacer una necesidad. 
+
+En *NASA Systems Engineering Handbook*, se describen las siguientes  fases del ciclo de vida de un proyecto:
+
+<p align = "center">
+<img alt="Dimensiones telescopio JWST" title="Dimensiones telescopio JWST" data-src="/blogs/images/diseno_img/2.png" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+</p>
 
 ## Uso de estructuras desplegables en el campo aeroespacial
 
@@ -34,9 +39,7 @@ El telescopio espacial JWST, lanzado en diciembre de 2021, es el observatorio ci
 
 Sin embargo, para poder ser lanzado al espacio debía considerarse el lanzador, un cohete Ariane 5, es por esto que el telescopio se pliega hasta aproximadamente una cuarta parte de su tamaño completo. Una vez en el espacio, fue desplegado gradualmente mientras se dirigía a su órbita.
 
-<p align = "center">
-<img alt="Dimensiones telescopio JWST" title="Dimensiones telescopio JWST" data-src="/blogs/images/JWST.png" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
-</p>
+
 <p align = "center">
 Dimensiones telescopio JWST. Fuente: NASA/JPL-Caltech
 </p>
