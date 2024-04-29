@@ -24,7 +24,7 @@ In this blog post, the project **Analysis and Design of Origami-Based Deployable
 
 ## What are deployable structures?
 
-Deployable structures are those that can change their configuration significantly. Typically, they go from a folded, compact state to a large, unfolded state (Tibert 2002). Origami has been used to design small-sized structures, which simplifies the transportation and assembly of bulky products. This paper folding technique, also known as origami, is increasingly being implemented in various fields, such as aerospace applications, shelters, rescue structures, play installations, medical devices, among others.
+Deployable structures are those that can change their configuration significantly. Typically, they go from a folded, compact state to a large, unfolded state (Tibert 2002). Origami has been used to design small-sized structures, which simplifies the transportation and assembly of bulky products. This paper folding technique, also known as paper sculpture, is increasingly being implemented in various fields, such as aerospace applications, shelters, rescue structures, playground facilities and medical devices, among others.
 
 ## Use of deployable structures in aerospace
 
