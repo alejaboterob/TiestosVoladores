@@ -11,6 +11,8 @@ tags:
   - Mecánica computacional
   - Proyectos
   - Aeroespacial
+  - Proyecto Mecánica Clásica
+
 image: /images/Origami-crane.jpg 
 description: "El origami o el arte de doblar papel para convertirlo en diversos objetos tridimensionales, que van desde aviones de papel hasta animales, ha servido como fuente de inspiración para el diseño de estructuras cada vez más compactas y versátiles. Recientemente el entendimiento del origami desde modelos matemáticos y el interés creciente por el diseño asistido por computador han permitido la creación, el análisis y la simulación de estructuras desplegables.
 
