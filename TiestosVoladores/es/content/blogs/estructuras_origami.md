@@ -1,6 +1,6 @@
 ---
 title: "Origami y estructuras desplegables: Un encuentro entre el arte y la ciencia"
-date: 2023-01-23T23:29:21+05:30
+date: 2024-04-20T23:29:21+05:30
 draft: false
 disqus: true
 github_link: "https://https://github.com/alejaboterob"
