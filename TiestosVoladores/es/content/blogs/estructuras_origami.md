@@ -29,10 +29,10 @@ Las estructuras desplegables inspiradas en el origami aprovechan los principios 
 En el ámbito aeroespacial, las estructuras desplegables son esenciales para reducir el tamaño de los componentes durante el lanzamiento y maximizar su funcionalidad una vez en órbita. Ejemplos incluyen paneles solares que se despliegan para capturar energía solar, antenas y reflectores que permiten mejorar las comunicaciones, velas solares y escudos térmicos que protegen las naves espaciales de temperaturas extremas, e incluso hábitats espaciales que permitirián a los astronautas vivir y trabajar en otros cuerpos planetarios.
 
 <p align = "center">
-<img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_habitat.webp" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+<img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_habitat.webp" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; height:500px; {{ $style }}">
 </p>
 <p align = "center">
-Hábitat desplegable basado en origami. Fuente: [https://unividafup.edu.co/bienestar/desarrollan-habitat-lunar-expandible-basados-en-el-concepto-del-origami/](https://unividafup.edu.co/bienestar/desarrollan-habitat-lunar-expandible-basados-en-el-concepto-del-origami/)
+Hábitat desplegable basado en origami. Fuente: <a href="https://unividafup.edu.co/bienestar/desarrollan-habitat-lunar-expandible-basados-en-el-concepto-del-origami/">https://unividafup.edu.co/bienestar/desarrollan-habitat-lunar-expandible-basados-en-el-concepto-del-origami/</a>
 </p>
 
 ### Arquitectura y construcción
@@ -40,10 +40,13 @@ Hábitat desplegable basado en origami. Fuente: [https://unividafup.edu.co/biene
 En la arquitectura, el origami permite la creación de estructuras temporales como puentes y refugios que pueden ser desplegados rápidamente en situaciones de emergencia. Además, se utiliza en el diseño de edificios adaptables que pueden responder a cambios ambientales. Por ejemplo, la cubierta o fachada móvil del edificio que se muestra en la imagen que permite reducir la captación solar y por tanto la necesidad de aire acondicionada, al adaptarse según la exposición al sol y a los cambios en los ángulos de incidencia durante los distintos días del año.
 
 <p align = "center">
-<img alt="Fachada móvil de las Torres Al Bahar / Aedas." title="Fachada móvil de las Torres Al Bahar / Aedas." data-src="/blogs/images/origami_habitat.webp" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+<img alt="Fachada móvil de las Torres Al Bahar / Aedas." title="Fachada móvil de las Torres Al Bahar / Aedas." data-src="/blogs/images/origami_habitat.webp" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; height:500px; {{ $style }}">
 </p>
 <p align = "center">
-Fachada móvil de las Torres Al Bahar / Aedas. Fuente: [https://www.designboom.com/architecture/aedas-al-bahar-towers/](https://www.designboom.com/architecture/aedas-al-bahar-towers/)
+Fachada móvil de las Torres Al Bahar / Aedas. Fuente: <a href="https://www.designboom.com/architecture/aedas-al-bahar-towers/">https://www.designboom.com/architecture/aedas-al-bahar-towers/</a>
+
+
+[https://www.designboom.com/architecture/aedas-al-bahar-towers/](https://www.designboom.com/architecture/aedas-al-bahar-towers/)
 </p>
 
 ### Robótica
