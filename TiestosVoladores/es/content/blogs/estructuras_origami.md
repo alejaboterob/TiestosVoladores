@@ -8,7 +8,7 @@ author: "Maria Alejandra Botero Botero"
 tags:
   - Proyecto Mecánica Clásica
   - Origami
-image: /images/origami_NASA.jpg
+image: /images/origami_NASA.gif
 description: ""
 toc:
 ---
@@ -44,9 +44,6 @@ En la arquitectura, el origami permite la creación de estructuras temporales co
 </p>
 <p align = "center">
 Fachada móvil de las Torres Al Bahar / Aedas. Fuente: <a href="https://www.designboom.com/architecture/aedas-al-bahar-towers/">https://www.designboom.com/architecture/aedas-al-bahar-towers/</a>
-
-
-[https://www.designboom.com/architecture/aedas-al-bahar-towers/](https://www.designboom.com/architecture/aedas-al-bahar-towers/)
 </p>
 
 ### Robótica
