@@ -8,7 +8,7 @@ author: "Maria Alejandra Botero Botero"
 tags:
   - Proyecto Mecánica Clásica
   - Origami
-image: /images/origami_NASA.gif
+image: /images/origami_NASA.webp
 description: ""
 toc:
 ---
