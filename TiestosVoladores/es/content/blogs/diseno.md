@@ -20,7 +20,7 @@ El diseño es una parte fundamental de la ingeniería y del desarrollo de cualqu
 El proceso de diseño típico se ve de la siguiente manera, partiendo de un concepto que se estudia, se desarrolla y continua evolucionando mientras es producido, probado y opera hasta el fin de su ciclo de vida. Esto quiere decir que el diseño generalmente es un proceso iterativo, donde al final de cada etapa se obtiene una versión con características o funcionalidades mejoradas. 
 
 <p align = "center">
-<img alt="Proceso de diseño" title="Proceso de diseño" data-src="/blogs/images/diseno_img/1.png" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+<img alt="Proceso de diseño" title="Proceso de diseño" data-src="/blogs/images/diseno_img/1.png" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
 </p>
 
 En el campo aeroespacial, el proceso de diseño está enmarcado en la **ingeniería de sistemas** (*Systems Engineering*), no haciendo referencia al pregrado en relación con las tecnologías de la información y la comunicación ofrecido bajo este nombre, sino a lo que NASA define como un enfoque metódico y multidisciplinar para el diseño, desarrollo, operación, mantenimiento y retiro de un sistema. Teniendo en cuenta que un "sistema" es una combinación de elementos que funcionan juntos para producir la capacidad requerida para satisfacer una necesidad. 
@@ -28,7 +28,7 @@ En el campo aeroespacial, el proceso de diseño está enmarcado en la **ingenier
 En *NASA Systems Engineering Handbook*, se describen las siguientes fases del ciclo de vida de un proyecto:
 
 <p align = "center">
-<img alt="" title="Ciclo de vida de un proyecto" data-src="/blogs/images/diseno_img/2.png" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+<img alt="" title="Ciclo de vida de un proyecto" data-src="/blogs/images/diseno_img/2.png" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
 </p>
 
 ## Uso de estructuras desplegables en el campo aeroespacial
