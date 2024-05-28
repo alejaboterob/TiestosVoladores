@@ -11,6 +11,9 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
+\node_modules
+\static/fontawesome-5
+.\history
 
 # Executable may be added to repository
 hugo.exe
