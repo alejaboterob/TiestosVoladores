@@ -15,6 +15,18 @@ toc:
 
 Desde paneles solares para misiones espaciales hasta refugios de emergencia y dispositivos médicos, la aplicación del origami en la ingeniería está redefiniendo los límites de lo posible, permitiendo la creación de estructuras desplegables que combinan eficiencia, funcionalidad y estética. Y es que la capacidad de convertir hojas de papel en figuras tridimensionales, que pueden plegarse y desplegarse adaptandose a diferentes necesidades lo hacen perfecto para usarlo como inspiración para responder a los desafíos actuales, donde cada vez necesitamos estructuras más compactas,portables y en algunos casos multifuncionales. En este blog, exploraremos las aplicaciones del origami en campos como medicina, arquitectura, aeroespacial y robótica.
 
+
+
+<p align = "center">
+<img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_NASA.webp" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+</p>
+
+
+
+<p align = "center">
+<img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_NASA.gif" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+</p>
+
 ## Sobre el origami
 
 El origami, arte de doblar papel, se ha realizado durante siglos, pero hasta hace algunos años los diseños que podían obtenerse eran limitados. Gracias a métodos como el empaquetamiento de círculos y la teoría del árbol, hoy en día logramos doblar cualquier figura que nos imaginemos. Con una simple hoja de papel, podemos crear una variedad infinita de formas tridimensionales, desde figuras simples como grullas y aviones de papel hasta complejas esculturas realistas. Más allá de ser un arte y un pasatiempo, el estudio del origami desde las matemáticas y la ciencia, además de permitir su avance, ha inspirado innovaciones en múltiples campos de la ingeniería.
