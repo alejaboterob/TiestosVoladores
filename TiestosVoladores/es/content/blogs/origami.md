@@ -37,14 +37,14 @@ El telescopio espacial JWST, lanzado en diciembre de 2021, es el observatorio ci
 Sin embargo, para poder ser lanzado al espacio debía considerarse el lanzador, un cohete Ariane 5, es por esto que el telescopio se pliega hasta aproximadamente una cuarta parte de su tamaño completo. Una vez en el espacio, fue desplegado gradualmente mientras se dirigía a su órbita.
 
 <p align = "center">
-<img alt="Dimensiones telescopio JWST" title="Dimensiones telescopio JWST" data-src="/blogs/images/JWST.png" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; height:500px; {{ $style }}">
+<img alt="Dimensiones telescopio JWST" title="Dimensiones telescopio JWST" data-src="/blogs/images/JWST.png" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; height:500px; {{ $style }}">
 </p>
 <p align = "center">
 Dimensiones telescopio JWST. Fuente: NASA/JPL-Caltech
 </p>
 
 <p align = "center">
-<img alt="Telescopio JWST plegado y ubicado en el Ariane 5" title="Telescopio JWST plegado y ubicado en el Ariane 5" data-src="/blogs/images/ariane.jpg" class="cld-responsive" style="padding-bottom: 16px; display: block; margin: auto; height:500px; {{ $style }}">
+<img alt="Telescopio JWST plegado y ubicado en el Ariane 5" title="Telescopio JWST plegado y ubicado en el Ariane 5" data-src="/blogs/images/ariane.jpg" class="cld-responsive" style="text-align: center; padding-bottom: 16px; display: block; margin: auto; max-height:500px; {{ $style }}">
 </p>
 <p align = "center">
 Telescopio JWST plegado y ubicado en el Ariane 5. Fuente: NASA
