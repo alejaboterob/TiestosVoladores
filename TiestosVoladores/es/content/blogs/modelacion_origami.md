@@ -8,7 +8,7 @@ author: "Maria Alejandra Botero Botero"
 tags:
   - Proyecto Mecánica Clásica
   - Origami
-image: /images/post.jpg
+image: /images/ori1.jpg
 description: ""
 toc:
 ---
