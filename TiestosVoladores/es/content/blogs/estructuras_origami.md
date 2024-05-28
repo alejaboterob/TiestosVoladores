@@ -8,7 +8,7 @@ author: "Maria Alejandra Botero Botero"
 tags:
   - Proyecto Mecánica Clásica
   - Origami
-image: /images/origami_NASA.webp
+image: /images/ori1.jpg
 description: "Desde paneles solares para misiones espaciales hasta refugios de emergencia y dispositivos médicos, la aplicación del origami en la ingeniería está redefiniendo los límites de lo posible, permitiendo la creación de estructuras desplegables que combinan eficiencia, funcionalidad y estética. Y es que la capacidad de convertir hojas de papel en figuras tridimensionales, que pueden plegarse y desplegarse adaptandose a diferentes necesidades lo hacen perfecto para usarlo como inspiración para responder a los desafíos actuales, donde cada vez necesitamos estructuras más compactas,portables y en algunos casos multifuncionales. En este blog, exploraremos las aplicaciones del origami en campos como medicina, arquitectura, aeroespacial y robótica. "
 toc:
 ---
@@ -21,11 +21,6 @@ Desde paneles solares para misiones espaciales hasta refugios de emergencia y di
 <img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_NASA.webp" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
 </p>
 
-
-
-<p align = "center">
-<img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_NASA.gif" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
-</p>
 
 ## Sobre el origami
 
