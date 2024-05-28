@@ -32,7 +32,7 @@ Las estructuras desplegables inspiradas en el origami aprovechan los principios 
 En el ámbito aeroespacial, las estructuras desplegables son esenciales para reducir el tamaño de los componentes durante el lanzamiento y maximizar su funcionalidad una vez en órbita. Ejemplos incluyen paneles solares que se despliegan para capturar energía solar, antenas y reflectores que permiten mejorar las comunicaciones, velas solares y escudos térmicos que protegen las naves espaciales de temperaturas extremas, e incluso hábitats espaciales que permitirián a los astronautas vivir y trabajar en otros cuerpos planetarios.
 
 <p align = "center">
-<img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_habitat.webp" class="cld-responsive" style="max-width:100%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
+<img alt="Hábitat desplegable basado en origami." title="Hábitat desplegable basado en origami." data-src="/blogs/images/origami_habitat.webp" class="cld-responsive" style="max-width:90%; text-align: center; padding-bottom: 16px; display: block; margin: auto; {{ $style }}">
 </p>
 <p align = "center">
 Hábitat desplegable basado en origami. Fuente: <a href="https://unividafup.edu.co/bienestar/desarrollan-habitat-lunar-expandible-basados-en-el-concepto-del-origami/">https://unividafup.edu.co/bienestar/desarrollan-habitat-lunar-expandible-basados-en-el-concepto-del-origami/</a>
