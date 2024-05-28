@@ -64,3 +64,5 @@ Los metamateriales diseñados con principios de origami poseen propiedades mecá
 
 ## Simulación de origami 
 Recordemos que en este proyecto, buscamos entender los principios mecánicos que gobiernan los patrones de plegado del origami, con un enfoque particular en su cinemática y comportamiento bajo diferentes condiciones. Nuestro objetivo es desarrollar un modelo matemático que aproxime el comportamiento de estos patrones de plegado, permitiendo su simulación y optimización para diversas aplicaciones. Conoce más acerca de los patrones de origami, su simulación y cómo la combinación de la ciencia y este arte ofrece soluciones en campos tan variados como la ingeniería aeroespacial, la medicina, la robótica, la arquitectura y más. [Lee otros artículos aquí.](https://tiestosvoladores.com/tags/proyecto-mecánica-clásica/)
+
+Imagen portada: [https://www.jpl.nasa.gov/edu/learn/project/space-origami-make-your-own-starshade/](https://www.jpl.nasa.gov/edu/learn/project/space-origami-make-your-own-starshade/)

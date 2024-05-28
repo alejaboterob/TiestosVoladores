@@ -55,3 +55,6 @@ La investigación en modelado y simulación de patrones de origami no solo profu
 Liu, K., & Paulino, G. H. (2017). Nonlinear mechanics of non-rigid origami: an efficient computational approach.
 Meloni, M., et al. (2021). Engineering Origami: A Comprehensive Review of Recent Applications, Design Methods, and Tools.
 Yue, S. (2023). A Review of Origami-Based Deployable Structures in Aerospace Engineering.
+
+
+Imagen portada: [https://www.veritasium.com/videos/2019/10/4/engineering-with-origami](https://www.veritasium.com/videos/2019/10/4/engineering-with-origami)
