@@ -1,7 +1,7 @@
 ---
 title: "5 Amazon Products That Will Transform Your Workspace by 2025"
 date: 2025-03-09T23:29:21+05:30
-draft: true
+draft: false
 disqus: true
 github_link: "https://https://github.com/alejaboterob"
 author: "Maria Alejandra Botero Botero"
