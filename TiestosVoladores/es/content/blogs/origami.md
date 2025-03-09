@@ -24,7 +24,7 @@ El origami o el arte de doblar papel para convertirlo en diversos objetos tridim
 
 En este artículo, se presentará el proyecto **Análisis y Diseño de Estructuras Desplegables Basadas en Origami**. El objetivo de este proyecto es desarrollar métodos para diseñar y analizar estructuras desplegables de tipo origami, principalmente para aplicaciones aeroespaciales.
 
-## ¿Qué son las estructras desplegables?
+## ¿Qué son las estructuras desplegables?
 
 Las estructuras desplegables son aquellas que pueden cambiar su configuración de manera significativa. Normalmente, pasan de un estado plegado y compacto a uno grande y desplegado (Tibert 2002). El origami se ha utilizado para diseñar estructuras de tamaño reducido, lo que facilita el transporte y montaje de productos voluminosos. Esta técnica de doblado de papel, también conocida como papiroflexia, se está implementando cada vez más en diversos ámbitos, como aplicaciones aeroespaciales, refugios, estructuras de rescate, instalaciones lúdicas, dispositivos médicos, entre otros.
 
